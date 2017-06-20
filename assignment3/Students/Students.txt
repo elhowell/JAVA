@@ -1,0 +1,4 @@
+G|Adam Smith|123-4567|CISC|Network Management
+U|Chris Smith|987-6543|MATH|ENGL|3.98
+C|Mark Stevens|143-4517|CS|Computer Science
+F|Josh Warble|981-6623|CS|NOTENGL|3.8
